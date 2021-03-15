@@ -1,5 +1,5 @@
 body {
-  background-color: #1a39f6;
+  background-color: #022353d3;
 }
 .calculator {
   height: 350px;
@@ -26,7 +26,7 @@ body {
   width: 61px;
 }
 .special-btn {
-  background-color: #1a39f6;
+  background-color: #00416d;
 }
 .line {
   margin-bottom: 10px;
